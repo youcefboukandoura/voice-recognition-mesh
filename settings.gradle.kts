@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Voice Recognition Mesh"
 include(":app")
- 
+include(":voicereognition")
